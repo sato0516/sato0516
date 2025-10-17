@@ -247,7 +247,7 @@ git push origin main
 ---
 
 ## **② GitHub Actions × AWS App Runner**
-✅ **[公開ページはこちら（App Runner）](https://あなたの-apprunner-URL.awsapprunner.com)**
+✅ **[公開ページはこちら（App Runner）](https://7czyw6x6fj.ap-northeast-1.awsapprunner.com)**
 
 #### 0. 諸々初期設定
 
