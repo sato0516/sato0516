@@ -1,7 +1,7 @@
 ## 🌸 ご挨拶
-ご覧いただきありがとうございます。
-Webエンジニアを目指して一から学習中です。
-ベテランエンジニアの夫に見守ってもらいながら、
+ご覧いただきありがとうございます。<br>
+Webエンジニアを目指して一から学習中です。<br>
+ベテランエンジニアの夫に見守ってもらいながら、<br>
 ChatGPT（GPT-5有料プラン）を活用して独学に励んでいます。
 
 ---
@@ -239,11 +239,11 @@ git push origin main
 
 #### 12. チェックリスト
 
-- ☑ `schema.prisma` の `provider = "postgresql"` になっている  
-- ☑ ローカル `.env` の `DATABASE_URL` は Neon の接続文字列  
-- ☑ `package.json` に `postinstall` と `migrate:deploy`、（あれば）`vercel-build` がある  
-- ☑ Vercel の **Project Settings → Environment Variables** に `DATABASE_URL` がある（Dev/Preview/Prod）  
-- ☑ 本番 URL で **書き込み操作** が成功する
+- `schema.prisma` の `provider = "postgresql"` になっている  
+- ローカル `.env` の `DATABASE_URL` は Neon の接続文字列  
+- `package.json` に `postinstall` と `migrate:deploy`、（あれば）`vercel-build` がある  
+- Vercel の **Project Settings → Environment Variables** に `DATABASE_URL` がある（Dev/Preview/Prod）  
+- 本番 URL で **書き込み操作** が成功する
 
 ---
 
