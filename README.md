@@ -29,8 +29,8 @@ ChatGPT（GPT-5有料プラン）を活用して独学に励んでいます。
 ---
 
 ## 💻 デプロイ実践記録（手順メモ）
-### ① Vercel × Neon  
-✅ [公開ページはこちら（Vercel）](https://nextjs-2-hfx2.vercel.app)
+### **① Vercel × Neon**
+✅ **[公開ページはこちら（Vercel）](https://nextjs-2-hfx2.vercel.app)**
 
 #### 0. 前提（アカウント & 環境）
 
@@ -247,7 +247,7 @@ git push origin main
 
 ---
 
-### ② GitHub Actions × AWS App Runner 
-✅ [公開ページはこちら（App Runner）](https://あなたの-apprunner-URL.awsapprunner.com)
+### **② GitHub Actions × AWS App Runner**
+✅ **[公開ページはこちら（App Runner）](https://あなたの-apprunner-URL.awsapprunner.com)**
 
 ---
