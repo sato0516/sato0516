@@ -30,7 +30,7 @@ Webエンジニアを目指して一から学習中です。<br>
 ## 💻 デプロイ実践記録（手順メモ）
 ## **① Vercel × Neon**
 ✅ **[公開ページはこちら（Vercel）_お問合せフォーム](https://nextjs-2-hfx2.vercel.app)**<br>
-✅ **[公開ページはこちら（Vercel）_簡易ブログシステム](https://next-udemy-blog-5v1a5wdia-satomis-projects-92cbb770.vercel.app/)**
+✅ **[公開ページはこちら（Vercel）_簡易ブログシステム](https://next-udemy-blog-6qixsjkd6-satomis-projects-92cbb770.vercel.app/)**
 
 #### 0. 前提（アカウント & 環境）
 
@@ -248,7 +248,8 @@ git push origin main
 ---
 
 ## **② GitHub Actions × AWS App Runner**
-✅ **[公開ページはこちら（App Runner）](https://7czyw6x6fj.ap-northeast-1.awsapprunner.com)**
+✅ **[取得した公開URL（App Runner）](https://7czyw6x6fj.ap-northeast-1.awsapprunner.com)**
+※コストがかかるため運用継続しておりません。
 
 #### 0. 諸々初期設定
 
