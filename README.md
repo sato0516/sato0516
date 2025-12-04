@@ -250,7 +250,7 @@ git push origin main
 
 ## **② GitHub Actions × AWS App Runner**
 ✅ **[取得した公開URL（App Runner）](https://7czyw6x6fj.ap-northeast-1.awsapprunner.com)**
-※コストがかかるため運用継続しておりません。
+※現在運用しておりません。
 
 #### 0. 諸々初期設定
 
