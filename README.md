@@ -11,8 +11,8 @@ AIで情報を得つつも自分で手を動かし、理解を積み重ねる学
 - Progate（有料プラン）でJavaScript / SQL / React / Command Line のレッスンを修了
 - paizaラーニング問題演習～GitHubでプルリクエスト運用～夫からレビューを受け改善～マージする開発サイクルを実践
 - ToDoリスト作成（Reactで実装）
-- お問い合わせフォーム作成（Udemy講座 / Next.jsで環境構築 / バリデーション設計 / ServerActionで送信処理 / PrismaでDB操作）
-- 簡易ブログシステム作成（Udemy講座 / Next.jsで環境構築 / ログイン機能 / 検索機能 / 画像UL）
+- お問い合わせフォーム作成（Udemy講座をベースに開発 / Next.jsで環境構築 / バリデーション設計 / ServerActionで送信処理 / PrismaでDB操作）
+- 簡易ブログシステム作成（Udemy講座をベースに開発 / Next.jsで環境構築 / ログイン機能 / 検索機能 / 画像UL）
 - デプロイ関連（Vercel / GitHub Actions × AWS App Runner）
 
 ---
